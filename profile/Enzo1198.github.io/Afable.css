@@ -1,0 +1,38 @@
+html, body {
+	margin-top: 20px;
+	min-width: 50%;
+	text-align: center;
+}
+
+img:hover {
+	box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.name {
+	font-family: serif;
+	text-align: center;
+}
+
+.info {
+	margin-top: 2em;
+	min-width: inherit;
+	font-size: 20px;
+	padding: 0 0 0 0;
+	text-align: center;
+}
+
+.label {
+	font-style: times;
+}
+
+.header {
+	font-size: 50px;
+	text-align: center;
+	color: #008B8B;
+}
+
+.pic {
+	padding-top: 5%;
+	border-radius: 50%;
+	height: 400px;
+}
